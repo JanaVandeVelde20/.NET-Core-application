@@ -1,0 +1,5 @@
+C:\_DATA\Thomas More\semester 2\Windows\Case Study\Calculator\bin\Release\net7.0\publish\Calculator.exe
+C:\_DATA\Thomas More\semester 2\Windows\Case Study\Calculator\bin\Release\net7.0\publish\Calculator.dll
+C:\_DATA\Thomas More\semester 2\Windows\Case Study\Calculator\bin\Release\net7.0\publish\Calculator.deps.json
+C:\_DATA\Thomas More\semester 2\Windows\Case Study\Calculator\bin\Release\net7.0\publish\Calculator.runtimeconfig.json
+C:\_DATA\Thomas More\semester 2\Windows\Case Study\Calculator\bin\Release\net7.0\publish\Calculator.pdb
